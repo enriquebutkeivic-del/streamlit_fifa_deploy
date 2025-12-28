@@ -17,7 +17,7 @@ if "data" not in st.session_state:
 
 ## Escrevendo em markdown no centro e na barra lateral
 st.markdown("# FIFA 2023 - OFFICIAL DATASET! ⚽")
-st.sidebar.markdown("Desenvolvido por [Asimov Academy](https://asimov.academy)")
+st.sidebar.markdown("Desenvolvido por Enrique Butkeivic")
 
 # Configurando botão - obs o botão starta como False, tornando-se True após ser acionado
 btn = st.button("Acesse os dados no Kaggle")
